@@ -3,5 +3,5 @@
 **Sorular
 **Cevaplar
 
-[Patikaya tıkla] (www.patika.dev)
+[Patikaya tıkla](www.patika.dev)
 
